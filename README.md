@@ -1,4 +1,4 @@
-<h1 align="left">Hello, everyone! <img src="https://images.nplus1.ru//images/2020/11/02/03faa311b99a9ae4b5dcbdf68f8525a9.gif" alt="cat coding" width="100"/></h1>
+<h1 align="left">Hello, everyone! ★</h1>
 <h2 align="left" font="16">My name is Kate, I’m junior frontend web developer 💻 with 1+ year experience in React with TypeScript</h2>
 
 <p align="left">I worked at startup 🚀 for 6 months creating component library with React and about 7 months for an international IT company 🌍 developing features for web app with a team using scrum.</p>
