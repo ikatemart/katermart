@@ -1,5 +1,5 @@
 <h1 align="left">Hello, everyone! ★</h1>
-<h2 align="left" font="16">My name is Katerina, I’m junior frontend web developer 💻 with 1+ year experience in React with TypeScript</h2>
+<h2 align="left" font="16">My name is Kate, I’m junior frontend web developer 💻 with 1+ year experience in React with TypeScript</h2>
 
 <p align="left">I worked at startup 🚀 for 6 months creating component library with React and about 7 months for an international IT company 🌍 developing features for web app with a team using scrum.</p>
 
