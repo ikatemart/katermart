@@ -1,6 +1,6 @@
 <h1 align="left">Hello, everyone! ★</h1>
 <h2 align="left" font="16">
-  My name is Kate, I’m frontend web developer 💻 with 1+ year experience
+  My name is Kate, I’m frontend web developer 💻 with 1.5+ year experience
   in React with TypeScript
 </h2>
 
