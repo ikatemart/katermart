@@ -5,9 +5,7 @@
 </h2>
 
 <p align="left">
-  I worked at startup 🚀 for 6 months creating component library with React and
-  about 7 months for an international IT company 🌍 developing features for web
-  app with a team using scrum.
+ I worked for an international IT company 🌎 where as a part of the scrum team I developed all kind of features for its web application. I also worked at a startup 🚀 building a component library with React. Now I’m diving deeper into JS and React and trying out Node.js, Next.js and Express.
 </p>
 
 <h3 align="left">Main languages and tools:</h3>
