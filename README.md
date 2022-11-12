@@ -1,4 +1,4 @@
-<h5 align="left">Main languages and tools:</h5>
+<h4 align="left">Main languages and tools:</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
     ><img
@@ -61,7 +61,7 @@
   /></a>
 </p>
 
-<h5 align="left">Working with:</h5>
+<h4 align="left">Working with:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
     ><img
@@ -95,7 +95,7 @@
   /></a>
 </p>
 
-<h5 align="left">Сurrently studying:</h5>
+<h4 align="left">Сurrently studying:</h4>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
     ><img
@@ -131,7 +131,7 @@
   />
 </p>
 
-<h5 align="left">Connect with me:</h5>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
   <a
     href="https://linkedin.com/in/ekaterina-martyshevskaia-121472194"
