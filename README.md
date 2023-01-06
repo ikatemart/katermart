@@ -95,42 +95,6 @@
   /></a>
 </p>
 
-<h4 align="left">Сurrently studying:</h4>
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
-      width="35"
-      height="35"
-  /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-      alt="nextjs"
-      width="35"
-      height="35"
-  /></a>
-  <a
-    href=""
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-      alt="express"
-      width="35"
-      height="35"
-  /></a>
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=katermart&show_icons=true&locale=en&layout=compact"
-    alt="katermart"
-  />
-</p>
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
   <a
