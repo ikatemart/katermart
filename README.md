@@ -98,7 +98,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
   <a
-    href="https://linkedin.com/in/ekaterina-martyshevskaia-121472194"
+    href="https://www.linkedin.com/in/ekaterina-martyshevskaia/"
     target="_blank"
     ><img
       align="center"
